@@ -1,4 +1,4 @@
-![Ashok Kambaluru — Assistant Professor & Aspiring ML/CV Engineer](assets/banner.svg)
+![Ashok Kambaluru — Assistant Professor & Aspiring ML/CV Engineer](assets/banner.png)
 
 <p align="center">
   <a href="https://ashok-29.github.io/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
