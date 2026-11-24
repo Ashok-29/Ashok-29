@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Ashok Kambaluru — Assistant Professor & Aspiring ML/CV Engineer" width="100%" />
-</p>
+![Ashok Kambaluru — Assistant Professor & Aspiring ML/CV Engineer](assets/banner.svg)
 
 <p align="center">
   <a href="https://ashok-29.github.io/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
